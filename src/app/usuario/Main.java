@@ -8,7 +8,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         ControladorUsuarios.Decorador.mostrarLineaDecorativa();
-        System.out.println("Sistema de Registro de Usuarios");
+        System.out.println("Bienvenido al Sistema de Registro de Usuarios v2.0");
         ControladorUsuarios.Decorador.mostrarLineaDecorativa();
 
         String continuar;
