@@ -1,5 +1,7 @@
 package app.usuario;
 
+//Autor: ricruzLP - Colaborador invitado
+
 import java.util.Scanner;
 
 public class Main {
