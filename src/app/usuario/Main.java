@@ -8,6 +8,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         ControladorUsuarios.Decorador.mostrarLineaDecorativa();
+	// Comentario agregado por ricruzLP para práctica de Pull Request
         System.out.println("Bienvenido al Sistema de Registro de Usuarios v2.0");
         ControladorUsuarios.Decorador.mostrarLineaDecorativa();
 
